@@ -18,4 +18,4 @@ Load these resources plus dp-coverflow.js and dp-coverflow.css in your code.
 
 ## License
 
-Licensed under the terms of the [MIT License](LICENSE).
+Licensed under the terms of the [MIT License](./LICENSE).
