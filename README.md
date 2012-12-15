@@ -5,17 +5,11 @@ A wordpress plugin that allows you to pick a gallery from the [NextGen Gallery](
 The wordpress plugin php code is based on [JJ NextGen JQuery Carousel](http://wordpress.org/extend/plugins/jj-nextgen-jquery-carousel/).
 
 To use it without the wordpress stuff, just pick the JavaScript and CSS files.
-The HTML code looks like this:
-
-	<ul class="dpCoverflow hasReflection">
-		<li><a href=""><img src="" alt=""/</a></li>
-		<li><a href=""><img src="" alt=""/</a></li>
-		<li><a href=""><img src="" alt=""/</a></li>
-	</ul>
-
 The project requires modernizr, jQuery, hammer.js, jQuery.hammer.js, rAF.js and photon.js.
-Load these resources plus dp-coverflow.js and dp-coverflow.css in your code.
+Load these resources plus [dp-coverflow.js](https://github.com/michaelkamphausen/dp-coverflow/tree/master/js/dp-coverflow.js) and [dp-coverflow.css](https://github.com/michaelkamphausen/dp-coverflow/tree/master/css/dp-coverflow.css) in your code.
+
+Have a look at the [sample](https://github.com/michaelkamphausen/dp-coverflow/tree/master/sample/index.html) for details.
 
 ## License
 
-Licensed under the terms of the [MIT License](./LICENSE).
+Licensed under the terms of the [MIT License](https://github.com/michaelkamphausen/dp-coverflow/tree/master/LICENSE).
